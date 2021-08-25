@@ -11,7 +11,7 @@ Yolo | Git
 
 
 
- <h2>My GitHub Stats<img src="https://cdn.imgbin.com/8/24/12/imgbin-pusheen-cat-pixel-art-graphics-pusheen-drawings-q4s9uBfuMU3rY6F4720Lrg01v.jpg" width="50"> </h2>
+ <h2>My GitHub Stats<img src="img/cat.png" width="50"> </h2>
  
  <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yadu9238&show_icons=true&theme=dracula" /></p>
 
