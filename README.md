@@ -1,4 +1,4 @@
-# Hi there 👋 , This is Yadu <img src="img/cat.png" width="50">
+# Hi there 👋 , This is Yadu 
 
 - Currently Final Year ISE Student [@RIT](https://msrit.edu)
 - Love to work on computer vision and CyberSec fields
@@ -20,7 +20,7 @@ Art | Music
 -Discord : SoRa#4042
 
 
- <h2>My GitHub Stats </h2>
+ <h2>My GitHub Stats <img src="img/cat.png" width="50"></h2>
  
  <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yadu9238&show_icons=true&theme=dracula" /></p>
 
