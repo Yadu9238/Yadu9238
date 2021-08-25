@@ -20,7 +20,7 @@ Art | Music
 -Discord : SoRa#4042
 
 
- <h2>My GitHub Stats <img src="img/cat.png" width="50"></h2>
+ <h2>My GitHub Stats <img src="img/cat1.png" width="50"></h2>
  
  <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yadu9238&show_icons=true&theme=dracula" /></p>
 
