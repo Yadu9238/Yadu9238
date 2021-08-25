@@ -16,7 +16,7 @@ Art | Music
 
 ## Contact :
 
--Email : krishnanyadu60@gmail.com
+-Email : krishnanyadu60@gmail.com <br>
 -Discord : SoRa#4042
 
 
