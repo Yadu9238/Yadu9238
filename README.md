@@ -1,7 +1,7 @@
 # Hi there 👋 , This is Yadu 
 
-- Currently Final Year ISE Student [@RIT](https://msrit.edu)
-- Love to work on computer vision and CyberSec fields
+- Data Engineer
+- Open to work and collaborate in the fields of Computer vision and Security
 
 ## Languages and Tools :
 
