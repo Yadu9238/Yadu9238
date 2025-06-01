@@ -1,23 +1,16 @@
 # Hi there 👋 , This is Yadu 
-
-- Data Engineer
-- Open to work and collaborate in the fields of Computer vision and Security
+Aspiring Data Engineer with practical experience designing scalable data solutions and automating complex data workflows.
 
 ## Languages and Tools :
 
-Python | C | Java <br>
-MongoDB | Tensorflow | SQL  
-Yolo | Git
+Python | C++ | SQL <br>
+DataBricks | Dbt | Airflow | Azure Data Factory  
+DevOps | Git
 
 ## Interests and Activites :
 
-Programming | Manga | Books <br>
+Video Games | Manga | Movies <br>
 Art | Music
-
-## Contact :
-
--Email : krishnanyadu60@gmail.com <br>
--Discord : SoRa#4042
 
 
  <h2>My GitHub Stats <img src="img/cat1.png" width="50"></h2>
