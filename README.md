@@ -1,4 +1,3 @@
-# Yadu
 Data Engineer at Shell · I build data platforms on Azure and Databricks,
 and side projects on Spark, Delta Lake and RAG.
 
@@ -6,7 +5,7 @@ and side projects on Spark, Delta Lake and RAG.
 
 ## Tech
 **Daily:** Python, SQL, Databricks, Spark, Delta Lake, Azure Data Factory, ADLS Gen2
-**Also use:** Airflow, dbt, Postgres, Docker, GitHub Actions, Azure DevOps, Power BI
+**Also use:** Postgres, Docker, GitHub Actions, Azure DevOps, Power BI
 **Exploring:** hybrid retrieval, RAG evaluation
 
 ## Outside work
